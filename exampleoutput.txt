@@ -1,0 +1,101 @@
+Running sort algorithms on dataset 1...
+Running sort algorithms on dataset 2...
+Running sort algorithms on dataset 3...
+Running sort algorithms on dataset 4...
+Running sort algorithms on dataset 5...
+Running sort algorithms on dataset 6...
+Running sort algorithms on dataset 7...
+Running sort algorithms on dataset 8...
+Running sort algorithms on dataset 9...
+
+==================== SUMMARY ====================
+1. Merge Sort: total time 16051 microseconds, or 1783.444 microseconds per dataset on average
+2. Quick Sort: total time 17065 microseconds, or 1896.111 microseconds per dataset on average
+3. Heap Sort: total time 24768 microseconds, or 2752.000 microseconds per dataset on average
+4. Shell Sort: total time 30424 microseconds, or 3380.444 microseconds per dataset on average
+5. Selection Sort: total time 1421129 microseconds, or 157903.222 microseconds per dataset on average
+6. Insertion Sort: total time 2073194 microseconds, or 230354.889 microseconds per dataset on average
+7. Bubble Sort: total time 5310662 microseconds, or 590073.556 microseconds per dataset on average
+
+==================== RESULTS ====================
+DATASET 1:
+1. Quick Sort: 1732 microseconds
+2. Merge Sort: 1900 microseconds
+3. Heap Sort: 2884 microseconds
+4. Shell Sort: 3378 microseconds
+5. Selection Sort: 159701 microseconds
+6. Insertion Sort: 229457 microseconds
+7. Bubble Sort: 592789 microseconds
+
+DATASET 2:
+1. Merge Sort: 1874 microseconds
+2. Quick Sort: 1895 microseconds
+3. Heap Sort: 2660 microseconds
+4. Shell Sort: 3463 microseconds
+5. Selection Sort: 159146 microseconds
+6. Insertion Sort: 232097 microseconds
+7. Bubble Sort: 589714 microseconds
+
+DATASET 3:
+1. Merge Sort: 1707 microseconds
+2. Quick Sort: 1783 microseconds
+3. Heap Sort: 2804 microseconds
+4. Shell Sort: 3216 microseconds
+5. Selection Sort: 157095 microseconds
+6. Insertion Sort: 227830 microseconds
+7. Bubble Sort: 585178 microseconds
+
+DATASET 4:
+1. Merge Sort: 1832 microseconds
+2. Quick Sort: 2360 microseconds
+3. Heap Sort: 2800 microseconds
+4. Shell Sort: 3280 microseconds
+5. Selection Sort: 156835 microseconds
+6. Insertion Sort: 228552 microseconds
+7. Bubble Sort: 587495 microseconds
+
+DATASET 5:
+1. Quick Sort: 1678 microseconds
+2. Merge Sort: 1700 microseconds
+3. Heap Sort: 2673 microseconds
+4. Shell Sort: 3486 microseconds
+5. Selection Sort: 159764 microseconds
+6. Insertion Sort: 229014 microseconds
+7. Bubble Sort: 590235 microseconds
+
+DATASET 6:
+1. Quick Sort: 1769 microseconds
+2. Merge Sort: 1885 microseconds
+3. Heap Sort: 2829 microseconds
+4. Shell Sort: 3252 microseconds
+5. Selection Sort: 157677 microseconds
+6. Insertion Sort: 231372 microseconds
+7. Bubble Sort: 600392 microseconds
+
+DATASET 7:
+1. Merge Sort: 1746 microseconds
+2. Quick Sort: 1859 microseconds
+3. Heap Sort: 2822 microseconds
+4. Shell Sort: 3267 microseconds
+5. Selection Sort: 156837 microseconds
+6. Insertion Sort: 231552 microseconds
+7. Bubble Sort: 589232 microseconds
+
+DATASET 8:
+1. Merge Sort: 1701 microseconds
+2. Quick Sort: 2044 microseconds
+3. Heap Sort: 2689 microseconds
+4. Shell Sort: 3650 microseconds
+5. Selection Sort: 157186 microseconds
+6. Insertion Sort: 234822 microseconds
+7. Bubble Sort: 590750 microseconds
+
+DATASET 9:
+1. Merge Sort: 1706 microseconds
+2. Quick Sort: 1945 microseconds
+3. Heap Sort: 2607 microseconds
+4. Shell Sort: 3432 microseconds
+5. Selection Sort: 156888 microseconds
+6. Insertion Sort: 228498 microseconds
+7. Bubble Sort: 584877 microseconds
+
