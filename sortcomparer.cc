@@ -16,7 +16,7 @@
  * 
  * Supplying the argument "results" will print the results of testing each 
  * sorting algorithm on each individual dataset in the input file. Supplying 
- * the argument "summary" will print a summary of the results of of running 
+ * the argument "summary" will print a summary of the results of running 
  * each sorting algorithm over all the datasets in the file, specifying an 
  * average and total time performance for each algorithm. Supplying no
  * arguments will print both, with the individual results following the 
